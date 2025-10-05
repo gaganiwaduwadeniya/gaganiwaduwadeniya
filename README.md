@@ -23,7 +23,7 @@
 <br>
 <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me: </h3>
 <p align="left"><br>
-<a href="[https://linkedin.com/in/gagani waduwadeniya](https://www.linkedin.com/in/gagani-waduwadeniya-a4b96628b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagani waduwadeniya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gagani-waduwadeniya-a4b96628b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagani waduwadeniya" height="30" width="40" /></a>
 </p><br>
 
 <h3 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Languages and Tools:</h3><br>
