@@ -34,8 +34,8 @@ I’m particularly interested in front-end and back-end development, creating in
 - 🔹 **Aura Track – AI Facial Recognition Attendance System**
 - 🔹 **𝐍𝐞𝐮𝐫𝐨 𝐃𝐞𝐧𝐨𝐢𝐬𝐞𝐫: 𝐀 𝐒𝐨𝐩𝐡𝐢𝐬𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐈𝐦𝐚𝐠𝐞 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧**
 - 🔹 **𝗦𝗮𝗹𝗲𝘀 𝗣𝘂𝗹𝘀𝗲 - 𝗥𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗶𝘇𝗶𝗻𝗴 𝗦𝗮𝗹𝗲𝘀 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝘁 𝗦𝗼𝗳𝘁𝗹𝗼𝗴𝗶𝗰 𝗟𝗶𝗳𝗲**
-- 
-- 🎯 Currently seeking **Software Engineering / Full Stack Development Internship Opportunities**
+<br>  
+ 🎯 Currently seeking Software Engineering / Full Stack Development Internship Opportunities
 
 - 📫 How to reach me **gaganiwg20@gmail.com**
 <br>
