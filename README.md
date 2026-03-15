@@ -6,18 +6,36 @@
 
 
 <hr>
-<p><h3 align="left">I'm a Computer Science undergraduate and a passionate front-end developer from Sri Lanka. I have a strong interest in web development, especially in creating responsive and intuitive user interfaces. In addition to coding, I enjoy exploring new technologies and software testing with the interest to work on new projects.</h3></p>
+<p><h3 align="left">I'm a Computer Science undergraduate from Sri Lanka and a passionate Full Stack Developer with a strong interest in Software Engineering and web development. I enjoy building responsive, scalable, and user-friendly web applications using modern technologies.
+
+I’m particularly interested in front-end and back-end development, creating intuitive user interfaces, and developing efficient systems that solve real-world problems. Alongside coding, I actively explore new technologies, software testing practices, and development tools to continuously improve my skills.</h3></p>
 <hr><br>
 
-- 🔭 I’m currently working on <br>- Designing attractive user interfaces using **Figma**. <br>- Developing thrilling projects with **React**, **JavaScript** and **CSS**.
+- 🔭 I’m currently working on <br>- Designing responsive and user-friendly interfaces using **Figma**. <br>- Building web applications using **React**, **JavaScript**, **HTML** and **CSS**.
 
-- 🌱 I’m currently learning Web development Frameworks and concepts of Frontend and Backend development.
+- 🌱 - Advanced **Frontend and Backend development concepts**
+- 🌱 - Modern **Web Development frameworks** and **API integration**
 
-- 👯 I’m looking to collaborate on New project lies through Web Development and User Interface designing.
+- 👯 I’m looking to collaborate on **web development projects, UI/UX design, and full stack applications**.
 
-- 🤝 I’m looking for help with <br>- New concepts regarding Web development, including both frontend and backend. <br>- Fundamentals of **Artificial Intelligence**.
+- 🤝 I’m looking for help with  
+  - Advanced **Full Stack Development concepts**  
+  - **Software architecture and best coding practices**  
+  - Fundamentals of **Artificial Intelligence**
 
-- 💬 Ask me about <br> **- Object Oriented Concepts**<br> **- Figma**<br> **- Photoshop**
+- 💬 Ask me about  
+  - **Object-Oriented Programming (OOP)**  
+  - **Frontend development**  
+  - **Figma & UI/UX design**  
+  - **Web development basics**
+
+## 🚀 Featured Projects
+
+- 🔹 **Aura Track – AI Facial Recognition Attendance System**
+- 🔹 **𝐍𝐞𝐮𝐫𝐨 𝐃𝐞𝐧𝐨𝐢𝐬𝐞𝐫: 𝐀 𝐒𝐨𝐩𝐡𝐢𝐬𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐈𝐦𝐚𝐠𝐞 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧**
+- 🔹 **𝗦𝗮𝗹𝗲𝘀 𝗣𝘂𝗹𝘀𝗲 - 𝗥𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗶𝘇𝗶𝗻𝗴 𝗦𝗮𝗹𝗲𝘀 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝘁 𝗦𝗼𝗳𝘁𝗹𝗼𝗴𝗶𝗰 𝗟𝗶𝗳𝗲**
+- 
+- 🎯 Currently seeking **Software Engineering / Full Stack Development Internship Opportunities**
 
 - 📫 How to reach me **gaganiwg20@gmail.com**
 <br>
