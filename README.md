@@ -1,66 +1,158 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=1100&height=50&lines=Hi+There!+Welcome+to+my+Git+Hub+Profile.....;" alt="Headline" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="welcome"><br><br>
-  <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></picture>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=1000&height=50&lines=Hi+There!+Welcome+to+My+GitHub+Profile!;I'm+Gagani+Waduwadeniya;Software+Engineer+Intern;Full+Stack+Developer" alt="Typing SVG" />
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Welcome">
+  
+  <br><br>
+  
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" alt="About Me">
+  
 </div>
 
+---
 
-<hr>
-<p><h3 align="left">I'm a Computer Science undergraduate from Sri Lanka and a passionate Full Stack Developer with a strong interest in Software Engineering and web development. I enjoy building responsive, scalable, and user-friendly web applications using modern technologies.
+## 👩‍💻 About Me
 
-I’m particularly interested in front-end and back-end development, creating intuitive user interfaces, and developing efficient systems that solve real-world problems. Alongside coding, I actively explore new technologies, software testing practices, and development tools to continuously improve my skills.</h3></p>
-<hr><br>
+I'm a **Computer Science undergraduate at General Sir John Kotelawala Defence University (KDU), Sri Lanka**, currently working as a **Software Engineer Intern at Nova Code Technologies**.
 
-- 🔭 I’m currently working on <br>- Designing responsive and user-friendly interfaces using **Figma**. <br>- Building web applications using **React**, **JavaScript**, **HTML** and **CSS**.
+I'm passionate about software engineering and full-stack web development, with hands-on experience building and maintaining web applications using modern technologies.
 
-- 🌱 - Advanced **Frontend and Backend development concepts**
-- 🌱 - Modern **Web Development frameworks** and **API integration**
+I enjoy developing responsive user interfaces, building RESTful APIs, managing databases, and transforming ideas into practical software solutions. I'm also interested in UI/UX design, software testing, and exploring AI-powered development tools.
 
-- 👯 I’m looking to collaborate on **web development projects, UI/UX design, and full stack applications**.
+- 💼 Currently working as a **Software Engineer Intern**.
+- 🎓 Final-year Computer Science undergraduate at **KDU**.
+- 💻 Interested in **Full Stack Development and Software Engineering**.
+- 🎨 Enjoy designing user-friendly interfaces using **Figma**.
+- 🌱 Continuously learning modern frameworks, software architecture, and development practices.
+- 🤝 Open to collaborating on interesting software and web development projects.
 
-- 🤝 I’m looking for help with  
-  - Advanced **Full Stack Development concepts**  
-  - **Software architecture and best coding practices**  
-  - Fundamentals of **Artificial Intelligence**
+---
 
-- 💬 Ask me about  
-  - **Object-Oriented Programming (OOP)**  
-  - **Frontend development**  
-  - **Figma & UI/UX design**  
-  - **Web development basics**
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Cloud & Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,figma,androidstudio" />
+</p>
+
+### AI Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-- 🔹 **Aura Track – AI Facial Recognition Attendance System**
-- 🔹 **𝐍𝐞𝐮𝐫𝐨 𝐃𝐞𝐧𝐨𝐢𝐬𝐞𝐫: 𝐀 𝐒𝐨𝐩𝐡𝐢𝐬𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐈𝐦𝐚𝐠𝐞 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧**
-- 🔹 **𝗦𝗮𝗹𝗲𝘀 𝗣𝘂𝗹𝘀𝗲 - 𝗥𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗶𝘇𝗶𝗻𝗴 𝗦𝗮𝗹𝗲𝘀 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝘁 𝗦𝗼𝗳𝘁𝗹𝗼𝗴𝗶𝗰 𝗟𝗶𝗳𝗲**
-<br>  
- 🎯 Currently seeking Software Engineering / Full Stack Development Internship Opportunities
+Here are some of the projects I've worked on:
 
-- 📫 How to reach me **gaganiwg20@gmail.com**
-<br>
-<h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me: </h3>
-<p align="left"><br>
-<a href="https://www.linkedin.com/in/gagani-waduwadeniya-a4b96628b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagani waduwadeniya" height="30" width="40" /></a>
-</p><br>
+### 🔹 Sales Pulse – Sales Management System
+A full-stack sales management application designed to simplify sales operations and provide useful business insights.
 
-<h3 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Languages and Tools:</h3><br>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<br>
-<hr>
-<h2 align="left" >📊 My Statistics</h2>
+### 🔹 Aura Track – AI Facial Recognition Attendance System
+An AI-powered attendance management system using facial recognition technology, with a ResNet50-based model achieving 88.57% accuracy.
 
- ![Gagani's github stats](https://github-readme-stats.vercel.app/api?username=gaganiwaduwadeniya&show_icons=true&theme=tokyonight) | ![Gagani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaganiwaduwadeniya&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganiwaduwadeniya&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=gaganiwaduwadeniya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+### 🔹 Warm Whisper – AI Mental Health Chatbot
+An AI-powered chatbot designed to recognize emotional states and provide supportive interactions using the GoEmotions dataset.
 
-<hr> 
+### 🔹 Neuro Denoiser – AI-Powered Image Enhancement
+An image enhancement solution focused on improving image quality through AI-based image processing techniques.
 
-<p align="left" > 
-<h3 align="left">🏆 GitHub Trophies</h3><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=gaganiwaduwadeniya&theme=radical&no-bg=true&column=8&margin-w=5" alt="gaganiwaduwadeniya" />
-</a>
+### 🔹 Ontology-Driven Multi-Agent Bookstore
+A software project exploring ontology-based knowledge representation and multi-agent system concepts.
+
+---
+
+## 🎯 Currently Learning & Exploring
+
+- Advanced React and Next.js development
+- TypeScript and scalable application development
+- Backend development and REST API design
+- Software testing and debugging practices
+- Software architecture and clean coding principles
+- AI-assisted software development and automation
+
+---
+
+## 💬 Ask Me About
+
+- Object-Oriented Programming (OOP)
+- Frontend and Full Stack Development
+- React.js and JavaScript
+- Figma and UI/UX Design
+- Web Development Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:gaganiwg20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/gagani-waduwadeniya-a4b96628b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/gaganiwaduwadeniya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
+---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaganiwaduwadeniya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganiwaduwadeniya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganiwaduwadeniya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=gaganiwaduwadeniya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### ✨ "Building ideas into meaningful digital experiences." ✨
+  
+  <img src="https://komarev.com/ghpvc/?username=gaganiwaduwadeniya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  
+</div>
