@@ -19,7 +19,7 @@ I'm a **Computer Science undergraduate at General Sir John Kotelawala Defence Un
 
 I'm passionate about software engineering and full-stack web development, with hands-on experience building and maintaining web applications using modern technologies.
 
-I enjoy developing responsive user interfaces, building RESTful APIs, managing databases, and transforming ideas into practical software solutions. I'm also interested in UI/UX design, software testing, and exploring AI-powered development tools.
+I enjoy developing responsive user interfaces, building RESTful APIs, managing databases, and transforming ideas into practical software solutions. I'm also interested in software testing and exploring AI-powered development tools.
 
 - 💼 Currently working as a **Software Engineer Intern**.
 - 🎓 Final-year Computer Science undergraduate at **KDU**.
@@ -121,38 +121,3 @@ A software project exploring ontology-based knowledge representation and multi-a
   </a>
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaganiwaduwadeniya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganiwaduwadeniya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganiwaduwadeniya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=gaganiwaduwadeniya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ✨ "Building ideas into meaningful digital experiences." ✨
-  
-  <img src="https://komarev.com/ghpvc/?username=gaganiwaduwadeniya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  
-</div>
